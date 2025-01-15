@@ -1,1 +1,1 @@
-https://avelauw.github.io/team_jaya/
+https://avelauw.github.io/team_jaya/index.html
